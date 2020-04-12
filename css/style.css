@@ -3908,6 +3908,10 @@ p {
   font-size: 20px;
 }
 
+.media img {
+  object-fit: cover;
+}
+
 .media-list .media .media-heading:hover {
   color: #3d9386 !important;
 }
